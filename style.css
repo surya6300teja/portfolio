@@ -345,6 +345,9 @@ nav .fa-solid{
     display: none;
 }
 svg{
+    position: absolute;
+    left: 91%;
+    top: 2%;
     padding-left: 40px;
     padding-top: 35px;
     color: #ff004f;
@@ -427,6 +430,9 @@ svg{
       }
 
       svg{
+        position: absolute;
+        left: 60%;
+        top: 1.2%;
         color: #fff;
         padding-top: 20px;
       }
